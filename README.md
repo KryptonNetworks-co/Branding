@@ -2,7 +2,7 @@
 
 [![Krypton Networks Dark Banner](./Graphics/Banner/Banner-Dark.png)](https://kryptonnetworks.co/)
 
-<h2 align="center">Kypton Networks Branding</h2>
+# Kypton Networks Branding
 
 </div>
 
